@@ -5,8 +5,11 @@
 
 ## How to play
 > Clone the repository with the following command: git clone https://github.com/docafavarato/flappy-bird and run the "main.cpp" file.
+
 > Press the left mouse button to fly and avoid the pipes
+
 > If you hit a pipe, you die
+
 > Press Space to restart
 
 ## Images
