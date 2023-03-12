@@ -4,6 +4,7 @@
 > Flappy Bird was a popular game made by Nguyễn Hà Đông and published by .GEARS studios. This is a remake of it made with C++ and the SFML engine.
 
 ## How to play
+> Clone the repository with the following command: git clone https://github.com/docafavarato/flappy-bird and run the "main.cpp" file.
 > Press the left mouse button to fly and avoid the pipes
 > If you hit a pipe, you die
 > Press Space to restart
