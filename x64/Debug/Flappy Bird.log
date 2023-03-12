@@ -1,0 +1,5 @@
+﻿  game.cpp
+F:\Visualrepos\Flappy Bird\Flappy Bird\game.cpp(17,17): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+F:\Visualrepos\Flappy Bird\Flappy Bird\game.cpp(186,29): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+F:\Visualrepos\Flappy Bird\Flappy Bird\game.cpp(265,36): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  Flappy Bird.vcxproj -> F:\Visualrepos\Flappy Bird\x64\Debug\Flappy Bird.exe
